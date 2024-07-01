@@ -1,6 +1,7 @@
 # ESP32 RC522 Example
 
-A simple example of using [esp-idf-rc522](https://github.com/abobija/esp-idf-rc522/) to read RFID tags' serial numbers.
+An implementation of the example code of [esp-idf-rc522](https://github.com/abobija/esp-idf-rc522/) as a project.
+Reads RFID tags' serial numbers.
 
 ```c
 rc522_config_t config = {
