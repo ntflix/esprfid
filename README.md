@@ -13,4 +13,4 @@ rc522_config_t config = {
 };
 ```
 
-Connect RC522 module with the above pins or configure to your layout in `main.c`.
+Connect RC522 module with the above pins (and 3.3V + GND) or configure to your layout in `main.c`.
